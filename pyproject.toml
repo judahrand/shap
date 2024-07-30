@@ -68,7 +68,7 @@ test = [
   "gpboost",
   "ngboost",
   "pyspark",
-  "pyod",
+  "pyod>=2",
   "transformers",
   "tf-keras",
   "protobuf==3.20.3",  # See GH #3046
